@@ -22,6 +22,7 @@
 | 2 | [`sfja2004`](https://github.com/sfja2004) | _Teori er oftest tættere på praksis i teorien end i praksis_ | [Website](https://www.sfja.dk) · [Fil](entries/sfja2004.md) |
 | 3 | [`camper0008`](https://github.com/camper0008) | _grøn > classic_ | [Website](https://tpho.dk) · [Fil](entries/camper0008.md) |
 | 4 | [`DJJK`](https://github.com/JensK-Mercantec) | _JK ik' æ' hyt'_ | [Website](https://github.com/JensK-Mercantec) · [Fil](entries/DJJK.md) |
+| 5 | [`mtkonge`](https://github.com/mtkonge) | _Ned i teksten, op i ..._ | [Website](https://mtko.dk) · [Fil](entries/mtkonge.md) |
 
 <!-- GUESTBOOK_INDEX_END -->
 
