@@ -9,7 +9,7 @@
     <img alt="Guestbook" src="https://img.shields.io/badge/guestbook-entries-brightgreen?style=flat" />
   </p>
 </div>
-**Signaturer:** 9 · **Sortering:** ældste commit øverst
+**Signaturer:** 10 · **Sortering:** ældste commit øverst
 
 ---
 
@@ -20,13 +20,14 @@
 |---:|---|---|---|
 | 1 | [`MAGS-GH`](https://github.com/MAGS-GH) | _Godt nok er bedre end perfekt!_ | [Website](https://github.com/MAGS-GH) · [Fil](entries/MAGS-GH.md) |
 | 2 | [`sfja2004`](https://github.com/sfja2004) | _Teori er oftest tættere på praksis i teorien end i praksis_ | [Website](https://www.sfja.dk) · [Fil](entries/sfja2004.md) |
-| 3 | [`camper0008`](https://github.com/camper0008) | _grøn > classic_ | [Website](https://tpho.dk) · [Fil](entries/camper0008.md) |
-| 4 | [`Mette04`](https://github.com/Mette04) | _Mette er bedre end Mathias til Buzz_ | [Website](https://github.com/Mette04) · [Fil](entries/Mette04.md) |
+| 3 | [`camper0008`](https://github.com/camper0008) | _grøn < classic_ | [Website](https://tpho.dk) · [Fil](entries/camper0008.md) |
+| 4 | [`Mette04`](https://github.com/Mette04) | _Mette er **ikke** bedre end Mathias til Buzz_ | [Website](https://github.com/Mette04) · [Fil](entries/Mette04.md) |
 | 5 | [`mtkonge`](https://github.com/mtkonge) | _Ned i teksten, op i ..._ | [Website](https://mtko.dk) · [Fil](entries/mtkonge.md) |
 | 6 | [`teezmand`](https://github.com/teezmand) | _Hele mit liv har jeg troede luft var gratis, indtil jeg købte en pose chips_ | [Website](https://github.com/teezmand) · [Fil](entries/teezmand.md) |
 | 7 | [`Johnni`](https://github.com/Scootch1337) | _Find ikke fejl, find en løsning._ | [Website](https://github.com/Scootch1337) · [Fil](entries/Johnni.md) |
-| 8 | [`DJJK`](https://github.com/JensK-Mercantec) | _Pawse_ | [Website](http://xn--ildvg-vra.dk/) · [Fil](entries/DJJK.md) |
-| 9 | [`OliverBolsMohr`](https://github.com/oliverbolsmohr) | _it's nice to be important but it's more important to be nice_ | [Website](https://netflix.com) · [Fil](entries/OliverBolsMohr.md) |
+| 8 | [`daniel121c`](https://github.com/daniel121c) | _Hvis bilindustrien havde udviklet sig som computerbranchen, ville en Rolls-Royce i dag koste 100 kroner og køre 500 kilometer på en liter benzin – og eksplodere en gang om ugen._ | [Website](https://github.com/daniel121c) · [Fil](entries/daniel121c.md) |
+| 9 | [`DJJK`](https://github.com/JensK-Mercantec) | _Pawse_ | [Website](http://xn--ildvg-vra.dk/) · [Fil](entries/DJJK.md) |
+| 10 | [`OliverBolsMohr`](https://github.com/oliverbolsmohr) | _it's nice to be important but it's more important to be nice_ | [Website](https://netflix.com) · [Fil](entries/OliverBolsMohr.md) |
 
 <!-- GUESTBOOK_INDEX_END -->
 
