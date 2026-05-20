@@ -21,7 +21,6 @@
 | 1 | [`MAGS-GH`](https://github.com/MAGS-GH) | _Godt nok er bedre end perfekt!_ | [Website](https://github.com/MAGS-GH) · [Fil](entries/MAGS-GH.md) |
 | 2 | [`sfja2004`](https://github.com/sfja2004) | _Teori er oftest tættere på praksis i teorien end i praksis_ | [Website](https://www.sfja.dk) · [Fil](entries/sfja2004.md) |
 | 3 | [`camper0008`](https://github.com/camper0008) | _grøn > classic_ | [Website](https://tpho.dk) · [Fil](entries/camper0008.md) |
-| 4 | [`daniel121c`](https://github.com/daniel121c) | _Hvis bilindustrien havde udviklet sig som computerbranchen, ville en Rolls-Royce i dag koste 100 kroner og køre 500 kilometer på en liter benzin – og eksplodere en gang om ugen._ | [Website](https://github.com/daniel121c) · [Fil](entries/daniel121c.md) |
 
 <!-- GUESTBOOK_INDEX_END -->
 
